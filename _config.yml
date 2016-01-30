@@ -1,0 +1,28 @@
+name: seilguide
+favicon: null
+layout_spectrum: 0.13506394950672984
+typography_spectrum: 0.8848880957812071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5905085229314864
+  lightness: 0.45099072996526957
+  saturation: 0.08242889237590134
+  rhythmicContrast: 0.3322017441969365
+purpose: []
